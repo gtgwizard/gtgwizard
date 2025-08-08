@@ -1,0 +1,7 @@
+export * from "./hero"
+export * from "./value-props"
+export * from "./features-preview"
+export * from "./features-grid"
+export * from "./pricing"
+export * from "./faq"
+export * from "./contact-form"

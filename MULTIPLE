@@ -1,0 +1,17 @@
+// components/sticky-cta.tsx
+import { motion } from "framer-motion"
+
+// components/sections/hero.tsx
+import { motion } from "framer-motion"
+
+// components/sections/value-props.tsx
+import { motion } from "framer-motion"
+
+// components/sections/features-preview.tsx
+import { motion } from "framer-motion"
+
+// components/sections/features-grid.tsx
+import { motion } from "framer-motion"
+
+// components/sections/pricing.tsx
+import { motion } from "framer-motion"
