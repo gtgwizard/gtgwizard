@@ -50,7 +50,7 @@ export function Hero() {
             {[
               { stat: "99.9%", label: "Uptime" },
               { stat: "500K+", label: "Users Protected" },
-              { stat: "50K+", label: "Servers" },
+              { stat: "190+", label: "Servers" },
             ].map((s) => (
               <motion.div key={s.label} variants={{ hidden: { opacity: 0, y: 8 }, show: { opacity: 1, y: 0 } }}>
                 <div className="text-xl font-semibold">{s.stat}</div>
